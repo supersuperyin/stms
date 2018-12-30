@@ -4,13 +4,7 @@ public class Main {
         System.out.println("Hello World!");
 
 
-
-
         //////222222222
-
-
-
-
 
 
         //333333333333
